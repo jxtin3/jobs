@@ -1,0 +1,24 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background: #e4e4e4;
+} */
+
+
+h1 {
+    text-align: center;
+}
+
+/* h2 {
+    font-size: 40px;
+} */
+
+h3 {
+    width: 48%;
+    text-align: center;
+}
+
+p {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+}

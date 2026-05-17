@@ -1,0 +1,27 @@
+.blog {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+.blog h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.blog h3 {
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 4px;
+}
+
+.blog .date {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 8px;
+}
+
+.blog p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}

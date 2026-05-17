@@ -1,0 +1,24 @@
+
+.about {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+.about h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.skills {
+    list-style: none;
+}
+
+.skills li {
+    margin-bottom: 8px;
+}
+
+.description {
+    line-height: 1.5;
+}
