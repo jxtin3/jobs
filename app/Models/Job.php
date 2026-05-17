@@ -9,14 +9,7 @@ class Job extends Model
 {
     use HasFactory;
 
-    /**
-     * The table associated with the model.
-     * We use 'job_listings' to avoid conflict with Laravel's built-in 'jobs' queue table.
-     */
-    protected $table = 'job_listings';
 
-    /**
-     * The attributes that are mass assignable.
-     */
+    protected $table = 'job_listings';
     protected $fillable = ['title', 'salary', 'description'];
 }
